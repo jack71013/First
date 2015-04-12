@@ -202,7 +202,4 @@
       <block type="movement_stop" id="266"></block>
     </next>
   </block>
-  <block type="led_select" id="369" inline="true" x="216" y="480">
-    <field name="ACTION">ON</field>
-  </block>
 </xml>
