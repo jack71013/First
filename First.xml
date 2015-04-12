@@ -157,13 +157,14 @@
                                                             <field name="NUM">5</field>
                                                           </block>
                                                         </value>
+                                                      </block>
+                                                    </statement>
+                                                    <statement name="ELSE">
+                                                      <block type="movement_forward" id="341">
                                                         <next>
                                                           <block type="movement_left" id="331"></block>
                                                         </next>
                                                       </block>
-                                                    </statement>
-                                                    <statement name="ELSE">
-                                                      <block type="movement_forward" id="341"></block>
                                                     </statement>
                                                     <next>
                                                       <block type="robot_delay" id="440" inline="true">
