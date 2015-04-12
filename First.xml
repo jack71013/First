@@ -130,7 +130,7 @@
                                                           </block>
                                                         </value>
                                                         <next>
-                                                          <block type="movement_right" id="351"></block>
+                                                          <block type="movement_left" id="331"></block>
                                                         </next>
                                                       </block>
                                                     </statement>
@@ -158,7 +158,7 @@
                                                           </block>
                                                         </value>
                                                         <next>
-                                                          <block type="movement_left" id="331"></block>
+                                                          <block type="movement_right" id="351"></block>
                                                         </next>
                                                       </block>
                                                     </statement>
