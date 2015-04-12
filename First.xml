@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="controls_whileUntil" id="454" inline="false" x="155" y="21">
-    <field name="MODE">WHILE</field>
+    <field name="MODE">UNTIL</field>
     <value name="NUMBER">
       <block type="sensor_button" id="461">
         <field name="OBJECT">UP</field>
